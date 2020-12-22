@@ -1,2 +1,2 @@
 # lnkreator
-quick wscript execution to create lnk files
+quick ps1 that calls wscript to create lnk files
